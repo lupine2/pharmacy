@@ -407,7 +407,7 @@ padding-top: 15px !important;
 
 }
 .bx-wrapper .bx-controls-direction a{
-    z-index: 9;
+    z-index: 9 !important;
 }
 #index .caption{
     position: absolute;
